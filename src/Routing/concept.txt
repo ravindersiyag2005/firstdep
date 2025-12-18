@@ -1,0 +1,6 @@
+install library ...
+npm i react-router-dom
+
+passing the data : 
+1)query paramater==> passing data in link 
+2)state

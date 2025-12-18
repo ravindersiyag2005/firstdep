@@ -1,0 +1,7 @@
+json placeholder website
+dummyjson
+
+
+use asios library and install it ----------------------------->npm i axios
+--automatically coversion from json to js 
+--handling error is easy 

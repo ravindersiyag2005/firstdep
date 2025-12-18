@@ -1,0 +1,4 @@
+install redux : npm install @reduxjs/toolkit react-redux  
+
+
+wesite to takr help : https://redux-toolkit.js.org/tutorials/quick-start
